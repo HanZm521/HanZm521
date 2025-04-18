@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+- 🌱 I’m currently learning in Department of Computer and Information Science, University of Macau. 
+- 📫 How to reach me: yc37462@umac.mo
 
 <!--
 **HanZm521/HanZm521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
